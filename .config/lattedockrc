@@ -1,0 +1,33 @@
+[DownloadDialog Settings]
+eDP Height 1920x1080=485
+eDP Width 1920x1080=700
+
+[KFileDialog Settings]
+Recent Files[$e]=我的布局.layout.latte,file:$HOME/Desktop/我的布局.layout.latte
+Recent URLs[$e]=file:$HOME/Desktop/
+detailViewIconSize=16
+
+[KPropertiesDialog]
+eDP Height 1920x1080=429
+eDP Width 1920x1080=355
+
+[PlasmaTransientsConfig]
+PreloadWeight=42
+
+[ScreenConnectors]
+10=eDP:::0,0 1920x1080
+
+[UniversalSettings]
+badges3DStyle=false
+canDisableBorders=true
+contextMenuActionsAlwaysShown=
+inAdvancedModeForEditSettings=true
+isAvailableGeometryBroadcastedToPlasma=true
+launchers=
+memoryUsage=0
+metaPressAndHoldEnabled=true
+mouseSensitivity=2
+screenTrackerInterval=1000
+showInfoWindow=true
+singleModeLayoutName=我的布局
+version=2

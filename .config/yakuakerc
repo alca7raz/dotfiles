@@ -1,0 +1,23 @@
+[Appearance]
+Blur=true
+TerminalHighlightOnManualActivation=true
+
+[Desktop Entry]
+DefaultProfile=Profile 1.profile
+
+[Dialogs]
+ConfirmQuit=false
+FirstRun=false
+
+[Shortcuts]
+help_whats_this=none
+new-session=Alt+T
+
+[Window]
+Height=45
+KeepAbove=false
+KeepOpen=false
+KeepOpenAfterLastSessionCloses=true
+Position=31
+ShowSystrayIcon=false
+Width=80
