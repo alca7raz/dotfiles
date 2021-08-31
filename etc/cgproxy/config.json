@@ -1,0 +1,18 @@
+{
+    "comment":"For usage, see https://github.com/springzfx/cgproxy",
+
+    "port": 12345,
+    "program_noproxy": ["v2ray", "qv2ray", "firefox", "privoxy", "v2raya", "/usr/lib/kdeconnectd"],
+    "program_proxy": [],
+    "cgroup_noproxy": ["/system.slice/v2ray.service", "/system.slice/v2raya.service"],
+    "cgroup_proxy": ["/"],
+    "enable_gateway": false,
+    "enable_dns": false,
+    "enable_udp": false,
+    "enable_tcp": true,
+    "enable_ipv4": true,
+    "enable_ipv6": false,
+    "table": 10007,
+    "fwmark": 39283
+}
+

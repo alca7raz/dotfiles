@@ -1,0 +1,1 @@
+auth	sufficient	pam_u2f.so nouserok origin=pam://nwnlaptop appid=pam://nwnlaptop
